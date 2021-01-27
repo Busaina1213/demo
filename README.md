@@ -1,6 +1,2 @@
 #READ ME file
-this is a readme file
-updated
-again updated
-new changes
-busaina@99
+This is now a cleaned and updated file before moving ahead.
